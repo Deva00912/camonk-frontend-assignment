@@ -1,0 +1,62 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "AI"
+      ],
+      "description": "Exploring how AI is reshaping financial services and banking.",
+      "date": "2024-03-15",
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop",
+      "content": "The intersection of finance and technology has never been more vibrant. As we look towards 2024, the role of the Chartered Accountant is evolving from mere bookkeeping to strategic financial analysis powered by AI.\n\nThe Rise of Automated Accounting\nAutomation is no longer a buzzword; it's a reality. Routine tasks like data entry, reconciliation, and payroll processing are being automated at an unprecedented pace."
+    },
+    {
+      "id": "2",
+      "title": "React vs Angular: The Verdict",
+      "category": [
+        "DEV",
+        "TECH"
+      ],
+      "description": "A deep dive into frontend frameworks and which one you should choose.",
+      "date": "2024-03-20",
+      "coverImage": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=800&auto=format&fit=crop",
+      "content": "React and Angular remain the two titans of frontend development. While React offers flexibility and a vast ecosystem, Angular provides a robust, opinionated structure out of the box.\n\nKey Differences:\n1. Architecture\n2. Learning Curve\n3. State Management"
+    },
+    {
+      "id": "3",
+      "title": "Mastering Tailwind CSS",
+      "category": [
+        "DESIGN",
+        "CSS"
+      ],
+      "description": "Why utility-first CSS is taking over the web development world.",
+      "date": "2024-03-22",
+      "coverImage": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?q=80&w=800&auto=format&fit=crop",
+      "content": "Tailwind CSS has revolutionized how we write styles. By using utility classes, we can build custom designs without leaving your HTML.\n\nIt reduces the need for context-switching and results in smaller bundle sizes when purged correctly."
+    },
+    {
+      "id": "8768",
+      "title": "Blog 11",
+      "description": "Blog 11 Summary",
+      "content": "Writing Blog 11 contents\n",
+      "coverImage": "https://picsum.photos/seed/310/800/400",
+      "category": [
+        "OKAY"
+      ],
+      "date": "2026-01-16"
+    },
+    {
+      "id": "7c36",
+      "title": "Blog tooth",
+      "description": "Hello",
+      "content": "dfsdfv",
+      "coverImage": "https://picsum.photos/seed/238/800/400",
+      "category": [
+        "REDK"
+      ],
+      "date": "2026-01-16"
+    }
+  ]
+}
